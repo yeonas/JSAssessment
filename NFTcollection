@@ -22,7 +22,7 @@ function mintNFT (name, watch, shoes, car) {
         "car: " : car
     }
     NFTs.push(NFT);
-    console.log("Minted NFTs: " + name);
+    console.log("Minted NFT: " + name);
 }
 
 // create a "loop" that will go through an "array" of NFT's
